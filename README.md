@@ -1,1 +1,0 @@
-# procesamiento-de-imagenes-convoluci-n-filtros-lineales
